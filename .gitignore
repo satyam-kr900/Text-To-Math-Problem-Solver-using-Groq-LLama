@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+*.pyc
+chroma_data/
+temporary.pdf
+rag_pdf.py
+tool_bind.py
+tool_built.py
+ai_agent_ollama.py
